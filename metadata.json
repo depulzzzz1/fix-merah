@@ -1,0 +1,6 @@
+{
+  "name": "WhatsApp Support Mail Generator",
+  "description": "Generate ready-to-send support emails for WhatsApp login, verification, and account access issues.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
